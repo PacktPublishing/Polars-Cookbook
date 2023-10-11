@@ -4,5 +4,6 @@
 
 
 ## Chapter 2 
+- [Shopping dataset](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset)
 
 ## Chapter 3
