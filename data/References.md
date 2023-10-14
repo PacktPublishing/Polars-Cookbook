@@ -5,5 +5,6 @@
 
 ## Chapter 2 
 - [Shopping dataset](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset)
+- [World Population](https://www.kaggle.com/datasets/rajkumarpandey02/2023-world-population-by-country?select=countries-table.json)
 
 ## Chapter 3
