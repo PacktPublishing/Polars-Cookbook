@@ -10,3 +10,4 @@
 - [Financial Sample Excel workbook](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)
 
 ## Chapter 3
+- [Provisional COVID-19 Deaths by Sex and Age](https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Sex-and-Age/9bhg-hcku)
