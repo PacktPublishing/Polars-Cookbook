@@ -2,3 +2,4 @@
 .DS_Store
 config.py
 data/output/**
+__pycache__
