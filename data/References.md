@@ -11,3 +11,6 @@
 
 ## Chapter 3
 - [Provisional COVID-19 Deaths by Sex and Age](https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Sex-and-Age/9bhg-hcku)
+
+## Chapter 4
+- [Contoso Sales Dataset](https://github.com/sql-bi/Contoso-Data-Generator/releases)
