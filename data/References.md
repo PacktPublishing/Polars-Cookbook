@@ -15,3 +15,9 @@
 ## Chapter 4
 - [Contoso Sales dataset](https://github.com/sql-bi/Contoso-Data-Generator/releases)
 - [Pokemon dataset](https://gist.githubusercontent.com/ritchie46/cac6b337ea52281aa23c049250a4ff03/raw/89a957ff3919d90e6ef2d34235e6bf22304f3366/pokemon.csv)
+
+## Chapter 5
+- Temperature dataset (manually created)
+
+## Chapter 6
+- [Google Play Store Reviews](https://www.kaggle.com/datasets/prakharrathi25/google-play-store-reviews)
