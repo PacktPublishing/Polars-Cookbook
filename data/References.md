@@ -21,3 +21,6 @@
 
 ## Chapter 6
 - [Google Play Store Reviews](https://www.kaggle.com/datasets/prakharrathi25/google-play-store-reviews)
+
+## Chapter 7
+- [Student Exam Performance](https://www.kaggle.com/datasets/rkiattisak/student-performance-in-mathematics)
