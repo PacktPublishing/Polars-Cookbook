@@ -23,4 +23,5 @@
 - [Google Play Store Reviews](https://www.kaggle.com/datasets/prakharrathi25/google-play-store-reviews)
 
 ## Chapter 7
-- [Student Exam Performance](https://www.kaggle.com/datasets/rkiattisak/student-performance-in-mathematics)
+- [Trending YouTube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new)
+- [Google Analytics Sample](https://console.cloud.google.com/marketplace/product/obfuscated-ga360-data/obfuscated-ga360-data?project=sandbox-366819)
