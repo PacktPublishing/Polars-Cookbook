@@ -25,3 +25,6 @@
 ## Chapter 7
 - [Trending YouTube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 - [Google Analytics Sample](https://console.cloud.google.com/marketplace/product/obfuscated-ga360-data/obfuscated-ga360-data?project=sandbox-366819)
+
+## Chapter 8
+- [International Student Demographics](https://www.kaggle.com/datasets/webdevbadger/international-student-demographics)
