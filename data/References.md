@@ -28,3 +28,6 @@
 
 ## Chapter 8
 - [International Student Demographics](https://www.kaggle.com/datasets/webdevbadger/international-student-demographics)
+
+## Chapter 9
+- [Historical Hourly Weather Data](https://www.kaggle.com/datasets/selfishgene/historical-hourly-weather-data/)
