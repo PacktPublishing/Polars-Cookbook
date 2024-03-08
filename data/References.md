@@ -31,3 +31,6 @@
 
 ## Chapter 9
 - [Historical Hourly Weather Data](https://www.kaggle.com/datasets/selfishgene/historical-hourly-weather-data/)
+
+## Chapter 10
+- [Largest US Venture Funding Deals 2023](https://www.kaggle.com/datasets/adnananam/largest-us-venture-funding-deals-of-2023)
