@@ -1,0 +1,217 @@
+year,academic_type,academic_level,students
+1999/00,Undergraduate,Associate's,59830
+1999/00,Undergraduate,Bachelor's,177381
+1999/00,Graduate,Master's,110857
+1999/00,Graduate,Doctoral,72928
+1999/00,Graduate,Professional,9475
+1999/00,Graduate,"Graduate, Unspecified",24959
+1999/00,Non-Degree,"Non-Degree, Intensive English",20852
+1999/00,Non-Degree,"Non-Degree, Other",13584
+1999/00,OPT,OPT,24857
+2000/01,Undergraduate,Associate's,67493
+2000/01,Undergraduate,Bachelor's,186936
+2000/01,Graduate,Master's,123920
+2000/01,Graduate,Doctoral,77211
+2000/01,Graduate,Professional,8005
+2000/01,Graduate,"Graduate, Unspecified",29361
+2000/01,Non-Degree,"Non-Degree, Intensive English",21716
+2000/01,Non-Degree,"Non-Degree, Other",12168
+2000/01,OPT,OPT,21058
+2001/02,Undergraduate,Associate's,67667
+2001/02,Undergraduate,Bachelor's,193411
+2001/02,Graduate,Master's,138791
+2001/02,Graduate,Doctoral,81824
+2001/02,Graduate,Professional,7948
+2001/02,Graduate,"Graduate, Unspecified",36185
+2001/02,Non-Degree,"Non-Degree, Intensive English",20410
+2001/02,Non-Degree,"Non-Degree, Other",14013
+2001/02,OPT,OPT,22745
+2002/03,Undergraduate,Associate's,72494
+2002/03,Undergraduate,Bachelor's,187609
+2002/03,Graduate,Master's,138634
+2002/03,Graduate,Doctoral,92203
+2002/03,Graduate,Professional,7796
+2002/03,Graduate,"Graduate, Unspecified",29243
+2002/03,Non-Degree,"Non-Degree, Intensive English",16856
+2002/03,Non-Degree,"Non-Degree, Other",13695
+2002/03,OPT,OPT,27793
+2003/04,Undergraduate,Associate's,69541
+2003/04,Undergraduate,Bachelor's,178659
+2003/04,Graduate,Master's,142271
+2003/04,Graduate,Doctoral,100092
+2003/04,Graduate,Professional,8212
+2003/04,Graduate,"Graduate, Unspecified",23735
+2003/04,Non-Degree,"Non-Degree, Intensive English",10224
+2003/04,Non-Degree,"Non-Degree, Other",10435
+2003/04,OPT,OPT,29340
+2004/05,Undergraduate,Associate's,65667
+2004/05,Undergraduate,Bachelor's,173545
+2004/05,Graduate,Master's,121523
+2004/05,Graduate,Doctoral,102084
+2004/05,Graduate,Professional,7675
+2004/05,Graduate,"Graduate, Unspecified",33128
+2004/05,Non-Degree,"Non-Degree, Intensive English",12896
+2004/05,Non-Degree,"Non-Degree, Other",15522
+2004/05,OPT,OPT,32999
+2005/06,Undergraduate,Associate's,63598
+2005/06,Undergraduate,Bachelor's,172744
+2005/06,Graduate,Master's,115434
+2005/06,Graduate,Doctoral,107993
+2005/06,Graduate,Professional,8463
+2005/06,Graduate,"Graduate, Unspecified",27827
+2005/06,Non-Degree,"Non-Degree, Intensive English",15217
+2005/06,Non-Degree,"Non-Degree, Other",15394
+2005/06,OPT,OPT,38096
+2006/07,Undergraduate,Associate's,67855
+2006/07,Undergraduate,Bachelor's,170195
+2006/07,Graduate,Master's,122385
+2006/07,Graduate,Doctoral,108033
+2006/07,Graduate,Professional,7415
+2006/07,Graduate,"Graduate, Unspecified",26455
+2006/07,Non-Degree,"Non-Degree, Intensive English",19819
+2006/07,Non-Degree,"Non-Degree, Other",19167
+2006/07,OPT,OPT,41660
+2007/08,Undergraduate,Associate's,65378
+2007/08,Undergraduate,Bachelor's,177982
+2007/08,Graduate,Master's,133698
+2007/08,Graduate,Doctoral,108976
+2007/08,Graduate,Professional,9472
+2007/08,Graduate,"Graduate, Unspecified",24696
+2007/08,Non-Degree,"Non-Degree, Intensive English",24468
+2007/08,Non-Degree,"Non-Degree, Other",22369
+2007/08,OPT,OPT,56766
+2008/09,Undergraduate,Associate's,74048
+2008/09,Undergraduate,Bachelor's,195826
+2008/09,Graduate,Master's,143709
+2008/09,Graduate,Doctoral,108290
+2008/09,Graduate,Professional,9980
+2008/09,Graduate,"Graduate, Unspecified",21350
+2008/09,Non-Degree,"Non-Degree, Intensive English",26800
+2008/09,Non-Degree,"Non-Degree, Other",25012
+2008/09,OPT,OPT,66601
+2009/10,Undergraduate,Associate's,68562
+2009/10,Undergraduate,Bachelor's,205869
+2009/10,Graduate,Master's,151252
+2009/10,Graduate,Doctoral,116254
+2009/10,Graduate,Professional,10695
+2009/10,Graduate,"Graduate, Unspecified",15684
+2009/10,Non-Degree,"Non-Degree, Intensive English",26059
+2009/10,Non-Degree,"Non-Degree, Other",28744
+2009/10,OPT,OPT,67804
+2010/11,Undergraduate,Associate's,71586
+2010/11,Undergraduate,Bachelor's,219853
+2010/11,Graduate,Master's,154854
+2010/11,Graduate,Doctoral,119641
+2010/11,Graduate,Professional,11054
+2010/11,Graduate,"Graduate, Unspecified",11025
+2010/11,Non-Degree,"Non-Degree, Intensive English",29603
+2010/11,Non-Degree,"Non-Degree, Other",29630
+2010/11,OPT,OPT,76031
+2011/12,Undergraduate,Associate's,64516
+2011/12,Undergraduate,Bachelor's,244826
+2011/12,Graduate,Master's,153735
+2011/12,Graduate,Doctoral,117564
+2011/12,Graduate,Professional,12154
+2011/12,Graduate,"Graduate, Unspecified",16977
+2011/12,Non-Degree,"Non-Degree, Intensive English",35108
+2011/12,Non-Degree,"Non-Degree, Other",34458
+2011/12,OPT,OPT,85157
+2012/13,Undergraduate,Associate's,68050
+2012/13,Undergraduate,Bachelor's,271943
+2012/13,Graduate,Master's,165978
+2012/13,Graduate,Doctoral,117779
+2012/13,Graduate,Professional,12018
+2012/13,Graduate,"Graduate, Unspecified",15429
+2012/13,Non-Degree,"Non-Degree, Intensive English",37213
+2012/13,Non-Degree,"Non-Degree, Other",36315
+2012/13,OPT,OPT,94919
+2013/14,Undergraduate,Associate's,69580
+2013/14,Undergraduate,Bachelor's,301144
+2013/14,Graduate,Master's,181371
+2013/14,Graduate,Doctoral,114790
+2013/14,Graduate,Professional,11382
+2013/14,Graduate,"Graduate, Unspecified",22311
+2013/14,Non-Degree,"Non-Degree, Intensive English",41723
+2013/14,Non-Degree,"Non-Degree, Other",37754
+2013/14,OPT,OPT,105997
+2014/15,Undergraduate,Associate's,69523
+2014/15,Undergraduate,Bachelor's,329301
+2014/15,Graduate,Master's,208355
+2014/15,Graduate,Doctoral,118104
+2014/15,Graduate,Professional,10218
+2014/15,Graduate,"Graduate, Unspecified",25551
+2014/15,Non-Degree,"Non-Degree, Intensive English",46170
+2014/15,Non-Degree,"Non-Degree, Other",47417
+2014/15,OPT,OPT,120287
+2015/16,Undergraduate,Associate's,78297
+2015/16,Undergraduate,Bachelor's,349016
+2015/16,Graduate,Master's,233463
+2015/16,Graduate,Doctoral,122655
+2015/16,Graduate,Professional,12742
+2015/16,Graduate,"Graduate, Unspecified",15075
+2015/16,Non-Degree,"Non-Degree, Intensive English",39444
+2015/16,Non-Degree,"Non-Degree, Other",45649
+2015/16,OPT,OPT,147498
+2016/17,Undergraduate,Associate's,76353
+2016/17,Undergraduate,Bachelor's,362666
+2016/17,Graduate,Master's,237679
+2016/17,Graduate,Doctoral,124705
+2016/17,Graduate,Professional,12138
+2016/17,Graduate,"Graduate, Unspecified",16602
+2016/17,Non-Degree,"Non-Degree, Intensive English",30331
+2016/17,Non-Degree,"Non-Degree, Other",42653
+2016/17,OPT,OPT,175695
+2017/18,Undergraduate,Associate's,78819
+2017/18,Undergraduate,Bachelor's,363927
+2017/18,Graduate,Master's,225883
+2017/18,Graduate,Doctoral,123500
+2017/18,Graduate,Professional,13020
+2017/18,Graduate,"Graduate, Unspecified",20550
+2017/18,Non-Degree,"Non-Degree, Intensive English",24651
+2017/18,Non-Degree,"Non-Degree, Other",40980
+2017/18,OPT,OPT,203462
+2018/19,Undergraduate,Associate's,70286
+2018/19,Undergraduate,Bachelor's,361644
+2018/19,Graduate,Master's,220622
+2018/19,Graduate,Doctoral,132581
+2018/19,Graduate,Professional,12132
+2018/19,Graduate,"Graduate, Unspecified",12608
+2018/19,Non-Degree,"Non-Degree, Intensive English",22126
+2018/19,Non-Degree,"Non-Degree, Other",40215
+2018/19,OPT,OPT,223085
+2019/20,Undergraduate,Associate's,62950
+2019/20,Undergraduate,Bachelor's,356371
+2019/20,Graduate,Master's,211283
+2019/20,Graduate,Doctoral,136678
+2019/20,Graduate,Professional,12014
+2019/20,Graduate,"Graduate, Unspecified",14460
+2019/20,Non-Degree,"Non-Degree, Intensive English",19227
+2019/20,Non-Degree,"Non-Degree, Other",38974
+2019/20,OPT,OPT,223539
+2020/21,Undergraduate,Associate's,49949
+2020/21,Undergraduate,Bachelor's,309838
+2020/21,Graduate,Master's,166636
+2020/21,Graduate,Doctoral,132703
+2020/21,Graduate,Professional,12776
+2020/21,Graduate,"Graduate, Unspecified",17157
+2020/21,Non-Degree,"Non-Degree, Intensive English",7093
+2020/21,Non-Degree,"Non-Degree, Other",14058
+2020/21,OPT,OPT,203885
+2021/22,Undergraduate,Associate's,40512
+2021/22,Undergraduate,Bachelor's,304020
+2021/22,Graduate,Master's,215076
+2021/22,Graduate,Doctoral,135530
+2021/22,Graduate,Professional,13582
+2021/22,Graduate,"Graduate, Unspecified",20909
+2021/22,Non-Degree,"Non-Degree, Intensive English",7737
+2021/22,Non-Degree,"Non-Degree, Other",26394
+2021/22,OPT,OPT,184759
+2022/23,Undergraduate,Associate's,42547
+2022/23,Undergraduate,Bachelor's,305055
+2022/23,Graduate,Master's,294923
+2022/23,Graduate,Doctoral,141301
+2022/23,Graduate,Professional,17926
+2022/23,Graduate,"Graduate, Unspecified",12877
+2022/23,Non-Degree,"Non-Degree, Intensive English",10801
+2022/23,Non-Degree,"Non-Degree, Other",32965
+2022/23,OPT,OPT,198793
