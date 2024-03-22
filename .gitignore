@@ -1,5 +1,6 @@
 .venv
 .DS_Store
+.vscode
 config.py
 data/output/**
 __pycache__
