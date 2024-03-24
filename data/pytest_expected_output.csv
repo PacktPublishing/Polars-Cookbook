@@ -1,0 +1,30 @@
+Name,Type 1,Type 2,Total,Attack,Defense,Speed,Atk Rank,Def Rank,Spe Rank
+Bulbasaur,Grass,Poison,318,49,49,45,3,5,4
+Ivysaur,Grass,Poison,405,62,63,60,7,11,7
+Venusaur,Grass,Poison,525,82,83,80,14,17,10
+VenusaurMega Venusaur,Grass,Poison,625,100,123,80,19,22,10
+Charmander,Fire,,309,52,43,65,5,3,8
+Charmeleon,Fire,,405,64,58,80,8,9,10
+Charizard,Fire,Flying,534,84,78,100,15,15,14
+CharizardMega Charizard X,Fire,Dragon,634,130,111,100,23,20,14
+CharizardMega Charizard Y,Fire,Flying,634,104,78,100,20,15,14
+Vulpix,Fire,,299,41,40,65,2,2,8
+Ninetales,Fire,,505,76,75,100,12,14,14
+Oddish,Grass,Poison,320,50,55,30,4,7,2
+Gloom,Grass,Poison,395,65,70,40,9,13,3
+Vileplume,Grass,Poison,490,80,85,50,13,18,5
+Paras,Bug,Grass,285,70,55,25,10,7,1
+Parasect,Bug,Grass,405,95,80,30,18,16,2
+Growlithe,Fire,,350,70,45,60,10,4,7
+Arcanine,Fire,,555,110,80,95,22,16,13
+Bellsprout,Grass,Poison,300,75,35,40,11,1,3
+Weepinbell,Grass,Poison,390,90,50,55,17,6,6
+Victreebel,Grass,Poison,490,105,65,70,21,12,9
+Ponyta,Fire,,410,85,55,90,16,7,11
+Rapidash,Fire,,500,100,70,105,19,13,15
+Exeggcute,Grass,Psychic,325,40,80,40,1,16,3
+Exeggutor,Grass,Psychic,520,95,85,55,18,18,6
+Tangela,Grass,,435,55,115,60,6,21,7
+Magmar,Fire,,495,95,57,93,18,8,12
+Flareon,Fire,,525,130,60,65,23,10,8
+Moltres,Fire,Flying,580,100,90,90,19,19,11
