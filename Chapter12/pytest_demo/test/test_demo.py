@@ -1,6 +1,6 @@
 import pytest
 import polars as pl
-# from polars.testing import assert_frame_equal, assert_series_equal
+from polars.testing import assert_frame_equal
 from cuallee import Check, CheckLevel
 from demo import keep_grass_or_fire, keep_cols, add_ranks
 
@@ -62,3 +62,7 @@ def test_ranks_completeness(df):
         .validate(df)
     )
     assert res_df.select('status')[0,0]=='PASS'
+
+def test_df_equal(df):
+    result_df = pl.read_csv('../../data/pytest_expected_output.csv')
+    return assert_frame_equal(df, result_df, check_dtype=False)
