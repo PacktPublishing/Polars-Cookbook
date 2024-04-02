@@ -33,4 +33,10 @@
 - [Historical Hourly Weather Data](https://www.kaggle.com/datasets/selfishgene/historical-hourly-weather-data/)
 
 ## Chapter 10
-- [Largest US Venture Funding Deals 2023](https://www.kaggle.com/datasets/adnananam/largest-us-venture-funding-deals-of-2023)
+- [Largest US Venture Funding Deals 2023](https://www.kaggle.com/datasets/adnananam/largest-us-venture-funding-deals-of-2023) (used in Chapter 2)
+
+## Chapter 11
+- [Titanic dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset/)
+
+## Chapter 12
+- [Pokemon dataset](https://gist.githubusercontent.com/ritchie46/cac6b337ea52281aa23c049250a4ff03/raw/89a957ff3919d90e6ef2d34235e6bf22304f3366/pokemon.csv) (used in Chapter 4)
