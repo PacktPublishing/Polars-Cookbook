@@ -80,8 +80,8 @@ B21621 - Polars Cookbook
 - Amazon S3 
 - Azure Blog Storage 
 - Google Cloud Storage 
-- Snowflake 
 - BigQuery 
+- Snowflake 
 
 ## [Chapter 12: Testing and Debugging in Polars](https://github.com/PacktPublishing/Polars-Cookbook/blob/main/Chapter12/ch12.ipynb)
 - Debugging chained operations 
