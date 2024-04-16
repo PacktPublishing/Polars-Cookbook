@@ -72,7 +72,7 @@ B21621 - Polars Cookbook
 
 ## [Chapter 10: Interoperability With Other Python Libraries](https://github.com/PacktPublishing/Polars-Cookbook/blob/main/Chapter10/ch10.ipynb)
 - Converting to and from a pandas DataFrame 
-- Utilizing NumPy 
+- Converting to and from NumPy arrays
 - Interoperating with PyArrow 
 - Integration with DuckDB 
 
