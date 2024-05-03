@@ -163,7 +163,7 @@ tenacity==8.2.3
 threadpoolctl==3.3.0
 toolz==0.12.1
 tornado==6.3.3
-tqdm==4.66.2
+tqdm==4.66.3
 traitlets==5.11.2
 typing_extensions==4.8.0
 tzdata==2023.3
