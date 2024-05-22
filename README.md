@@ -1,5 +1,5 @@
 # Polars-Cookbook
-B21621 - Polars Cookbook - [Amazon link for pre-order](https://www.amazon.com/Polars-Cookbook-practical-transform-manipulate/dp/1805121154/)
+B21621 - Polars Cookbook - [Amazon link for pre-order](https://www.amazon.com/Polars-Cookbook-practical-transform-manipulate/dp/1805121154)
 
 ## [Chapter 1: Getting Started with Python Polars](https://github.com/PacktPublishing/Polars-Cookbook/blob/main/Chapter01/ch01.ipynb)
 - Introducing Key Features in Polars 
