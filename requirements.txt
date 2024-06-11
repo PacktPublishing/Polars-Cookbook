@@ -13,7 +13,7 @@ asttokens==2.4.0
 attrs==23.1.0
 azure-core==1.30.1
 azure-datalake-store==0.0.53
-azure-identity==1.15.0
+azure-identity==1.16.1
 azure-storage-blob==12.19.1
 backcall==0.2.0
 bleach==6.1.0
