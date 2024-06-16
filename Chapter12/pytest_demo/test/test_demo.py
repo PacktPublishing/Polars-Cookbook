@@ -65,4 +65,4 @@ def test_ranks_completeness(df):
 
 def test_df_equal(df):
     result_df = pl.read_csv('../../data/pytest_expected_output.csv')
-    return assert_frame_equal(df, result_df, check_dtype=False)
+    return assert_frame_equal(df, result_df, check_dtypes=False)
