@@ -55,16 +55,15 @@ def test_rank_range(df):
     )
     assert bool_df.item() is True
 
-def test_ranks_completeness(df):
+def test_rank_completeness(df):
     check = Check(CheckLevel.WARNING, 'Completeness')
     cols = ['Atk Rank', 'Def Rank', 'Spe Rank']
     res_df = (
         check
         .are_complete(cols)
-        .are_unique(cols)
         .validate(df)
     )
-    assert res_df.select('status')[0,0]=='PASS'
+    assert res_df.select('status').item()=='PASS'
 
 def test_df_equal(df):
     result_df = pl.read_csv('../../data/pytest_expected_output.csv')
