@@ -49,8 +49,11 @@ def test_rank_range(df):
         .select(
             pl.all_horizontal(pl.all())
         )
+        .select(
+            pl.all('^*Rank$')
+        )
     )
-    assert bool_df[0,0] == True
+    assert bool_df.item() is True
 
 def test_ranks_completeness(df):
     check = Check(CheckLevel.WARNING, 'Completeness')
