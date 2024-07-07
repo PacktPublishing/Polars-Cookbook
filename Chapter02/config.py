@@ -1,0 +1,4 @@
+aws_access_key_id='YOUR_AWS_ACCESS_KEY_ID'
+aws_secret_access_key='YOUR_AWS_SECRET_ACCESS_KEY'
+postgres_user='YOUR_POSTGRES_USER'
+postgres_pass='YOUR_POSTGRES_PASSWORD'

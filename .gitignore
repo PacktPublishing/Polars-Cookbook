@@ -3,6 +3,5 @@
 .vscode
 .py*
 .*
-config.py
 data/output/**
 __pycache__
