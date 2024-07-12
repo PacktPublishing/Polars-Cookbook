@@ -15,8 +15,8 @@ B21621 - Polars Cookbook - [Amazon link for pre-order](https://www.amazon.com/Po
 - Reading and writing CSV files 
 - Reading and writing parquet files 
 - Reading and writing delta tables 
-- Reading and writing excel files 
 - Reading and writing JSON files 
+- Reading and writing excel files 
 - Reading and writing other data file formats 
 - Reading and writing multiple files 
 - Working with databases 
