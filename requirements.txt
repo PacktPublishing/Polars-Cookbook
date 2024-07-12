@@ -132,7 +132,7 @@ pillow==10.3.0
 platformdirs==4.2.2
 plotly==5.22.0
 pluggy==1.5.0
-polars==0.20.31
+polars==1.0.0
 portalocker==2.8.2
 prometheus_client==0.20.0
 prompt_toolkit==3.0.47
