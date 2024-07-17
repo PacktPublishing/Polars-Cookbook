@@ -7,7 +7,11 @@ uri = f'postgresql+pg8000://{postgres_user}:{postgres_pass}@localhost:5432/postg
 catalog = load_catalog('my_iceberg_catalog', uri=uri, warehouse='../data/my_iceberg_catalog')
 namespace = 'demo'
 table_name = 'demo.my_table'
-catalog.create_namespace(namespace)
+
+try:
+    catalog.create_namespace(namespace)
+except:
+    pass 
 
 try:
     catalog.drop_table(table_name)
