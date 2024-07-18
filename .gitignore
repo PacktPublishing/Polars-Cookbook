@@ -1,4 +1,4 @@
 .*
-!.devcontainer
+# !.devcontainer
 data/output/**
 __pycache__
