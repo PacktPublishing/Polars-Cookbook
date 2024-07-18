@@ -1,7 +1,4 @@
-.venv
-.DS_Store
-.vscode
-.py*
 .*
+!.devcontainer
 data/output/**
 __pycache__
