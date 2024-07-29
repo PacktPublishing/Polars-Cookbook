@@ -7,6 +7,7 @@
 - [Shopping dataset](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset)
 - [World Population](https://www.kaggle.com/datasets/rajkumarpandey02/2023-world-population-by-country?select=countries-table.json)
 - [Largest US Venture Funding Deals 2023](https://www.kaggle.com/datasets/adnananam/largest-us-venture-funding-deals-of-2023)
+- An iceberg table (created manually with [this Python script](https://github.com/PacktPublishing/Polars-Cookbook/blob/main/Chapter02/create_iceberg_catalog_and_table.py))
 
 ## Chapter 3
 - [Provisional COVID-19 Deaths by Sex and Age](https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-by-Sex-and-Age/9bhg-hcku)
