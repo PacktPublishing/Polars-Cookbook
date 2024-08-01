@@ -37,7 +37,7 @@ B21621 - Polars Cookbook - [Amazon link for pre-order](https://www.amazon.com/Po
 - Applying UDFs
 - Using SQL for data transformations 
 
-## [Chapter 5: Handling Missing Values](https://github.com/PacktPublishing/Polars-Cookbook/blob/main/Chapter05/ch05.ipynb)
+## [Chapter 5: Handling Missing Data](https://github.com/PacktPublishing/Polars-Cookbook/blob/main/Chapter05/ch05.ipynb)
 - Identifying missing data 
 - Deleting rows and columns containing missing data 
 - Filling missing data 
