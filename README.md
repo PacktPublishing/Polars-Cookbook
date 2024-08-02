@@ -21,7 +21,7 @@ B21621 - Polars Cookbook - [Amazon link for pre-order](https://www.amazon.com/Po
 - Reading and writing multiple files 
 - Working with databases 
 
-## [Chapter 3: Introduction to Data Analysis in Python Polars](https://github.com/PacktPublishing/Polars-Cookbook/blob/main/Chapter03/ch03.ipynb)
+## [Chapter 3: An Introduction to Data Analysis in Python Polars](https://github.com/PacktPublishing/Polars-Cookbook/blob/main/Chapter03/ch03.ipynb)
 - Inspecting the DataFrame 
 - Casting data types 
 - Handling duplicate values 
