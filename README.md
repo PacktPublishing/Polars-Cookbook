@@ -91,4 +91,4 @@ B21621 - Polars Cookbook - [Amazon link for pre-order](https://www.amazon.com/Po
 
 ## New Outstanding Features and Breaking Changes NOT Captured in the Book
 - Version 1.6.0
-  - Use Altair in DataFrame.plot ([#17995](https://github.com/pola-rs/polars/pull/17995)). Version 1.6.0
+  - Use Altair in DataFrame.plot ([#17995](https://github.com/pola-rs/polars/pull/17995)).
