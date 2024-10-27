@@ -1,5 +1,5 @@
 # Polars-Cookbook
-<a href="https://www.packtpub.com/en-in/product/polars-cookbook-9781805125150"><img src="https://content.packt.com/_/image/xxlarge/B21621/cover_image_large.jpg" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/en-us/product/polars-cookbook-9781805121152"><img src="https://content.packt.com/_/image/xxlarge/B21621/cover_image_large.jpg" height="256px" align="right"></a>
 
 B21621 - Polars Cookbook - [Amazon link for pre-order](https://www.amazon.com/Polars-Cookbook-practical-transform-manipulate/dp/1805121154)
 
