@@ -1,7 +1,7 @@
 # Polars-Cookbook
 <a href="https://www.packtpub.com/en-us/product/polars-cookbook-9781805121152"><img src="https://content.packt.com/_/image/xxlarge/B21621/cover_image_large.jpg" height="256px" align="right"></a>
 
-B21621 - Polars Cookbook - [Amazon link for pre-order](https://www.amazon.com/Polars-Cookbook-practical-transform-manipulate/dp/1805121154)
+B21621 - Polars Cookbook - [Available as an ebook and a physical copy on Amazon](https://www.amazon.com/Polars-Cookbook-practical-transform-manipulate/dp/1805121154)
 
 ## [Chapter 1: Getting Started with Python Polars](https://github.com/PacktPublishing/Polars-Cookbook/blob/main/Chapter01/ch01.ipynb)
 - Introducing Key Features in Polars 
