@@ -129,6 +129,10 @@ B21621 - Polars Cookbook - [Available as an ebook and a physical copy on Amazon]
 - Testing data quality with cuallee 
 - Running unit tests with Pytest 
 
+## Errata
+* Page 06 (code block 1): **Import polars as pl** _should be_ **import polars as pl**
+* Page 23 (code block 2, line 2): **df.select(cs.numeric()).head()** _should be_ **df.select(cs.string()).head()**
+  
 ## New Outstanding Features and Breaking Changes NOT Captured in the Book
 - Version 1.6.0
   - Use Altair in DataFrame.plot ([#17995](https://github.com/pola-rs/polars/pull/17995)).
